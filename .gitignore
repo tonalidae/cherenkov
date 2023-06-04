@@ -1,0 +1,7 @@
+#gitignore
+
+#exclude the data folder
+data/
+
+#exclude all files ending in .csv
+*.csv
