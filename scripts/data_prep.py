@@ -17,7 +17,6 @@ def read_data(file_path):
             column[1] = float(column[1])
             column[2] = float(column[2])
             data.append(column)
+            print(data)
         data = np.array(data)
-        print(data.shape)
     return data
-
