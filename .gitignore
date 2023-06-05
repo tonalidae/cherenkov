@@ -2,6 +2,6 @@
 
 #exclude the data folder
 data/
-
+.ipynb_checkpoints/
 #exclude all files ending in .csv
 *.csv
